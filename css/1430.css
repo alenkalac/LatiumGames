@@ -1,0 +1,31 @@
+@media(max-width: 1230px)
+{
+	.fix_top
+	{
+		position: relative;
+		top: -40px;
+	}
+	
+	#navigation
+	{
+		top: -165px;
+	}
+	
+	#logo
+	{
+		margin-top: 25px;
+	}
+	
+	#header_holder
+	{
+		height: 250px;
+	}
+	
+	#LATIUM, #GAMES
+	{
+		height: 0;
+		display: inline-block;
+	}
+	
+	
+}
